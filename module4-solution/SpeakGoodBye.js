@@ -1,4 +1,4 @@
-﻿(function (window) {
+(function (window) {
 
     var byeSpeaker=new Object();
 
